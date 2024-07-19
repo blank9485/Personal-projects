@@ -1,13 +1,13 @@
 # Personal-projects
 Those are my projects. i made them with AI just for fun.
 
-1. SysGuru
+1. [SysGuru](https://github.com/blank9485/SysGuru.github.io)
 
    ***See system info***
 
-[SysGuru]()
 
-3. OrbitOS
+
+3. [OrbitOS](
 
    ***fake web os based on ternianl***
 
