@@ -5,7 +5,7 @@ Those are my projects. i made them with AI just for fun.
 
    ***See system info***
 
-[SysGuru](SysGuru.github.io)
+[SysGuru]()
 
 3. OrbitOS
 
