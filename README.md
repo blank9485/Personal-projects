@@ -7,14 +7,12 @@ Those are my projects. i made them with AI just for fun.
 
 
 
-3. [OrbitOS](
+3. [OrbitOS](https://github.com/blank9485/OrbitOS.github.io)
 
    ***fake web os based on ternianl***
 
-[OrbitOS](OrbitOS.github.io)
 
-4. Personal site
+
+4. [Personal site](https://github.com/blank9485/blank9485.github.io)
 
     ***just a portfolio***
-
-[Portfolio](blank9485.github.io)
